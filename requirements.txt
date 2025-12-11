@@ -1,5 +1,5 @@
-Flask
-line-bot-sdk<3.0.0
-google-generativeai
-yfinance
+flask
+line-bot-sdk
 gunicorn
+requests
+aiohttp>=3.9.0
